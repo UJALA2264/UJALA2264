@@ -1,4 +1,4 @@
-![logo](https://github.com/UJALA2264/UJALA2264/blob/main/US.mp4)
+![logo](https://github.com/UJALA2264/UJALA2264/blob/main/Subheading%20(1).png)
 <h1 align="center">Hi 👋, I'm Ujala Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
